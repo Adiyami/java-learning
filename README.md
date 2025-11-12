@@ -1,27 +1,12 @@
-# java-learning
-# ☕ Java Learning Projects
+# ☕ From Zero to Java Hero
 
-This repository contains my learning projects and practice tasks from Skillbox and JavaRush courses.
+Welcome to my learning journey!  
+Here I document my progress as I dive into Java development —  
+from basic syntax to real-world projects.  
 
-## 📚 What I’m Learning Now
-- Java Core fundamentals  
-- Object-Oriented Programming (OOP)  
-- Data structures and algorithms  
-- Web development with Java  
+💡 Every commit reflects growth, practice, and persistence.  
+🎯 Goal: to become a confident Java developer and land my first IT job.
 
-## 🚀 Goals
-- Complete the Java course in 2 months  
-- Build and upload 5+ practical projects  
-- Prepare portfolio for a junior developer position  
-
-## 🛠 Tools & Technologies
-- Java 17  
-- IntelliJ IDEA  
-- Git & GitHub  
-- Linux / macOS Terminal  
-
----
-
-### 🌱 Progress
+Stay tuned — this is just the beginning 🚀
 I’ll be regularly updating this repository with new projects and practice tasks.
 Stay tuned!
